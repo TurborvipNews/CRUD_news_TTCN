@@ -1,4 +1,4 @@
-# 🚀 Getting started with Strapi with Crud_webs_news (Thực tập chuyên ngành công nghệ thông tin)
+# 🚀 Getting started with Crud_webs_news (Thực tập chuyên ngành công nghệ thông tin)
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
